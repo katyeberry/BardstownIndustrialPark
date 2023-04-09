@@ -1,7 +1,7 @@
 # BardstownIndustrialPark
 ## Development of Bardstown Industrial Park between 2012 and 2019
 
-Between the years 2012 and 2019, Bardstown Industrial Park, located adjacent to the Bluegrass Parkway, saw growth of 2 companies, Thai Summit and Bardstown Bourbon Company. Thai Summit has one building the has been constructed since 2012. Bardstown Bourbon Company has constructed their resturant and manufacturing facility and multiple maturation warehouses for the bourbon. 
+Between the years 2012 and 2019, Bardstown Industrial Park, located adjacent to the Bluegrass Parkway, saw growth of 2 companies, Thai Summit and Bardstown Bourbon Company. Thai Summit has one building the has been constructed since 2012. Bardstown Bourbon Company has constructed their resturant and manufacturing facility and multiple maturation warehouses for the bourbon. Additional change can be seen on the north side of the Bluegrass Parkway, which is a commercial and residential area.  
 
 ![Bardstown Industrial Park](Change.jpg)     
 *Bardstown Industrial Park*
